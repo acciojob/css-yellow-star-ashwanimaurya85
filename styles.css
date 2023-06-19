@@ -1,8 +1,14 @@
+body{
+	background-color:white;
+	width:500px;
+	height:500px;
+}
+
 .six-pointed-star{
       --star-color:yellow;
-      --sqrt-3:1.73205080757;
+      --sqrt-3:1.3205080757;
   margin: 0 auto;
-      font-size:10em;
+      font-size:5em;
       width: 0;
       height: 0;
       position:relative;
